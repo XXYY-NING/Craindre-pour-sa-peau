@@ -1,2 +1,7 @@
 # Craindre-pour-sa-peau
-my own world
+
+Hi guys!
+
+I am totally new in programming😂
+
+Happy to learn though~
