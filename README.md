@@ -2,6 +2,6 @@
 
 Hi guys!
 
-I am a totally new in programming😂
+I am totally new in programming😂
 
 Happy to learn though~
